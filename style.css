@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}  
+
+a {
+    text-decoration: none;
+    padding: 5px 20px 5px 20px;
+    font-size: 20px;
+    background-color:aquamarine;
+}
+
+img {
+    margin: 20px;
+}
+
+div{
+    border: 2px solid bisque;
+    padding: 10px;
+    background-color: beige;
+    
+}
