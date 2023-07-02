@@ -1,13 +1,15 @@
 body {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    max-width: 800px;
 }  
 
 a {
     text-decoration: none;
+    color: aliceblue;
     padding: 5px 20px 5px 20px;
     font-size: 20px;
-    background-color:aquamarine;
+    background-color:rgb(179, 130, 26);
 }
 
 img {
@@ -17,6 +19,18 @@ img {
 div{
     border: 2px solid bisque;
     padding: 10px;
-    background-color: beige;
-    
+    background-color: beige;  
+}
+
+.ingredients ul {
+    list-style-type:disc;
+}
+
+
+.method {
+    text-align: left;
+}
+
+.method p {
+    margin: 20px 10px;
 }
